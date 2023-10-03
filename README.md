@@ -38,7 +38,7 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the **Spotify** app:
 
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='https://github.com/liceyoung/AND101_project3/blob/main/07802A9C-E9CA-4B10-BB51-71C1CC274095_4_5005_c.jpeg' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Video Demo
 
