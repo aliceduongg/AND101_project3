@@ -8,7 +8,7 @@ Time spent: **5** hours spent in total
 
 **yolo spotify** is an android app, and this is screenshot creation from login page of spotify which is a funny version made by beginer ^^.
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **:snowman::seedling::blush:**
 
 ## Application Features
 
