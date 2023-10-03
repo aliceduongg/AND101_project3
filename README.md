@@ -44,7 +44,7 @@ I have chosen to duplicate the following layout from the **Spotify** app:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://github.com/liceyoung/AND101_project3/blob/main/Thao%20Duong_AND101_Project3%20-%20Imgur.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://github.com/liceyoung/AND101_project3/blob/main/Thao%20Duong_AND101_Project3%20-%20Imgur.gif' title='Video Demo' width='' alt='Video Demo'/>
 
 GIF created with **MacOS Recorder**
 
